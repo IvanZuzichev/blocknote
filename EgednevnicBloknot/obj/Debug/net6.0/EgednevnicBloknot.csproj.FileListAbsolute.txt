@@ -1,0 +1,15 @@
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\bin\Debug\net6.0\EgednevnicBloknot.exe
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\bin\Debug\net6.0\EgednevnicBloknot.deps.json
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\bin\Debug\net6.0\EgednevnicBloknot.runtimeconfig.json
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\bin\Debug\net6.0\EgednevnicBloknot.dll
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\bin\Debug\net6.0\EgednevnicBloknot.pdb
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.csproj.AssemblyReference.cache
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.AssemblyInfoInputs.cache
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.AssemblyInfo.cs
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.csproj.CoreCompileInputs.cache
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.dll
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\refint\EgednevnicBloknot.dll
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.pdb
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\EgednevnicBloknot.genruntimeconfig.cache
+C:\Users\79671\source\repos\EgednevnicBloknot\EgednevnicBloknot\obj\Debug\net6.0\ref\EgednevnicBloknot.dll
